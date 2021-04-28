@@ -6,6 +6,7 @@ Jóvenes y Memoria durante la convocatoria 2020. Cada proyecto posee un código 
 coordinador (DNI, nombre y apellido, email), la cantidad de alumnos que participan del proyecto, el nombre de la
 escuela y la localidad a la que pertenecen. Cada escuela puede presentar más de un proyecto. La información se
 ingresa ordenada consecutivamente por localidad y, para cada localidad, por escuela. 
+
 Realizar un programa que lea la información de los proyectos hasta que se ingrese el proyecto con código -1 
 (que no debe procesarse) e informe:
 
